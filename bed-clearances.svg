@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1366 768" style="enable-background:new 0 0 1366 768;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FF00FF;stroke-width:4;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#FF00FF;stroke-width:4;stroke-miterlimit:10;stroke-dasharray:5.0078,5.0078;}
+	.st2{fill:none;stroke:#FF00FF;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:5;}
+	.st3{fill:none;stroke:#FF00FF;stroke-width:2;stroke-miterlimit:10;}
+	.st4{fill:#FF00FF;}
+	.st5{font-family:'Rubik-Regular';}
+	.st6{font-size:24px;}
+	.st7{fill:none;stroke:#FF00FF;stroke-width:0.25;stroke-miterlimit:10;}
+</style>
+<g id="Layer_1">
+	<g>
+		<g>
+			<line class="st0" x1="18.66" y1="753.16" x2="21.16" y2="753.16"/>
+			<line class="st1" x1="26.17" y1="753.16" x2="664.66" y2="753.16"/>
+			<line class="st0" x1="667.16" y1="753.16" x2="669.66" y2="753.16"/>
+		</g>
+	</g>
+	<line class="st2" x1="19.38" y1="753.88" x2="19.38" y2="26.27"/>
+	<line class="st2" x1="669.66" y1="752.77" x2="669.66" y2="25.77"/>
+	<line class="st2" x1="19.38" y1="26.27" x2="669.66" y2="26.27"/>
+	<g>
+		<g>
+			<line class="st3" x1="382.83" y1="294.77" x2="667.49" y2="294.77"/>
+			<g>
+				<polygon class="st4" points="389.46,302.95 390.82,301.49 383.6,294.78 390.82,288.06 389.46,286.6 380.66,294.78 				"/>
+			</g>
+			<g>
+				<polygon class="st4" points="660.87,302.95 659.5,301.49 666.73,294.78 659.5,288.06 660.87,286.6 669.66,294.78 				"/>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 452.1222 276.9945)" class="st4 st5 st6">Transfer side</text>
+	<g>
+		<g>
+			<line class="st3" x1="270.18" y1="647.44" x2="270.65" y2="750.61"/>
+			<g>
+				<polygon class="st4" points="262.03,654.11 263.5,655.47 270.18,648.21 276.93,655.4 278.38,654.03 270.16,645.27 				"/>
+			</g>
+			<g>
+				<polygon class="st4" points="262.44,744.02 263.9,742.65 270.65,749.84 277.33,742.58 278.8,743.94 270.66,752.77 				"/>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 289.506 711.9945)" class="st4 st5 st6">Foot of bed</text>
+	<g>
+		<g>
+			<line class="st3" x1="270.66" y1="28.17" x2="270.66" y2="154.83"/>
+			<g>
+				<polygon class="st4" points="262.49,34.8 263.95,36.16 270.66,28.94 277.38,36.16 278.84,34.8 270.66,26 				"/>
+			</g>
+			<g>
+				<polygon class="st4" points="262.49,148.2 263.95,146.84 270.66,154.06 277.38,146.84 278.84,148.2 270.66,157 				"/>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 285.9298 105.9945)" class="st4 st5 st6">Head of bed</text>
+	<g>
+		<g>
+			<line class="st3" x1="22.83" y1="294.77" x2="163.49" y2="294.77"/>
+			<g>
+				<polygon class="st4" points="29.46,302.95 30.82,301.49 23.6,294.78 30.82,288.06 29.46,286.6 20.66,294.78 				"/>
+			</g>
+			<g>
+				<polygon class="st4" points="156.87,302.95 155.5,301.49 162.73,294.78 155.5,288.06 156.87,286.6 165.66,294.78 				"/>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 49.3536 276.9945)" class="st4 st5 st6">Far side</text>
+	<g>
+		<g>
+			<rect x="103.42" y="41.19" class="st3" width="403.43" height="6.55"/>
+			<rect x="98.17" y="30.73" class="st3" width="5.25" height="17.01"/>
+			<rect x="506.82" y="30.73" class="st3" width="5.25" height="17.01"/>
+			<polyline class="st3" points="144.83,49.25 144.83,80.66 190.58,80.66 198.43,73.01 198.43,49.25 			"/>
+		</g>
+		<g>
+			<rect x="173.37" y="158.46" class="st3" width="197.04" height="487.35"/>
+			<rect x="370.4" y="204.65" class="st3" width="7.85" height="163.89"/>
+			<rect x="165.51" y="204.21" class="st3" width="7.85" height="163.89"/>
+			<rect x="370.4" y="433.93" class="st3" width="7.85" height="163.89"/>
+			<rect x="165.51" y="433.5" class="st3" width="7.85" height="163.89"/>
+			<path class="st3" d="M206.45,171.53h128.26c9.6,0,17.38,7.78,17.38,17.38v50.23c0,9.6-7.78,17.38-17.38,17.38H206.45
+				c-9.6,0-17.38-7.78-17.38-17.38v-50.23C189.07,179.31,196.85,171.53,206.45,171.53z"/>
+			<line class="st3" x1="173.37" y1="379.89" x2="370.4" y2="379.89"/>
+			<line class="st3" x1="173.37" y1="445.93" x2="370.4" y2="445.93"/>
+		</g>
+	</g>
+</g>
+<g id="Lock">
+	<g>
+		<g>
+			<line class="st7" x1="18.75" y1="22.25" x2="18.75" y2="29.25"/>
+			<line class="st7" x1="22.25" y1="25.75" x2="15.25" y2="25.75"/>
+		</g>
+		<g>
+			<line class="st7" x1="1229.26" y1="21.75" x2="1229.26" y2="28.75"/>
+			<line class="st7" x1="1232.76" y1="25.25" x2="1225.76" y2="25.25"/>
+		</g>
+		<g>
+			<line class="st7" x1="18.75" y1="749.25" x2="18.75" y2="756.25"/>
+			<line class="st7" x1="22.25" y1="752.75" x2="15.25" y2="752.75"/>
+		</g>
+		<g>
+			<line class="st7" x1="1229.26" y1="748.75" x2="1229.26" y2="755.75"/>
+			<line class="st7" x1="1232.76" y1="752.25" x2="1225.76" y2="752.25"/>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,4 @@
+﻿Type,Far Side,Transfer Side,Foot of bed,Head of bed
+Medical / surgical patient rooms,36,48,36,-
+Critical care patient rooms,54,66,60,18
+Rooms for patients of size,60,72,60,0
